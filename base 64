@@ -12,3 +12,12 @@ public class Base64sagwapo {
          byte [] actualbyte = Base64.getDecoder().decode(encoded);  
          String actualstring = new String (actualbyte);
          System.out.println("DECODED:\n"+ actualstring);
+
+}
+
+}
+output deay miss
+ENCODED STRING 
+SmFtZXMgSGFydmV5IEd3YXBv
+DECODED:
+James Harvey Gwapo
